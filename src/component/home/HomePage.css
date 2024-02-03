@@ -1,0 +1,30 @@
+/* HomePage.css */
+
+.container {
+    text-align: center;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    position: relative;
+  }
+  
+  .imageContainer {
+    background-image: url("https://www.tourist-destinations.com/wp-content/uploads/2011/06/I.jpg"); /* Ganti dengan URL gambar Anda */
+    background-size: cover;
+    background-position: center;
+    height: 200px; /* Sesuaikan tinggi gambar */
+    border-radius: 10px 10px 0 0; /* Menyesuaikan border pada bagian atas */
+  }
+  
+  .heading {
+    font-size: 2.5rem;
+    color: #ffffff;
+    margin-top: 20px;
+  }
+  
+  .paragraph {
+    font-size: 1.2rem;
+    color: #666;
+    margin-bottom: 30px;
+  }
+  
